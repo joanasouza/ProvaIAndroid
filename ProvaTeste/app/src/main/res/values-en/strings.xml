@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Exam</string>
+    <string name="nome_txt">Name</string>
+    <string name="endereco_txt">Address</string>
+    <string name="cpf_txt">CPF</string>
+    <string name="telefone_txt">Phone</string>
+    <string name="sexo_m_txt">Male</string>
+    <string name="sexo_f_txt">Female</string>
+    <string name="sexo_o_txt">Others</string>
+    <string name="ativo_txt">Active</string>
+    <string name="adicionar_cliente">Add</string>
+    <string name="sexo_txt">Genre</string>
+    <string name="inativo_txt">Inative</string>
+    <string name="cabecalho">List Clients</string>
+    <string name="pesquisar_txt">Search</string>
+    <string name="splash_txt">Hello, this is a splash! :)</string>
+    <plurals name="texto_quantidade">
+        <item quantity="one">Client: 1</item>
+        <item quantity="other">Clients: %d</item>
+    </plurals>
+    <string name="btn_listar">List</string>
+    <string name="btn_adicionar">Add</string>
+    <string name="btn_pesquisar">Search</string>
+    <string name="btn_sair">Logout</string>
+</resources>

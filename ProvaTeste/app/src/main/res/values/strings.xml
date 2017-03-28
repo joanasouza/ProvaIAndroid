@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ProvaTeste</string>
+    <string name="nome_txt">Nome</string>
+    <string name="endereco_txt">Endereco</string>
+    <string name="cpf_txt">CPF</string>
+    <string name="telefone_txt">Telefone</string>
+    <string name="sexo_m_txt">Masculino</string>
+    <string name="sexo_f_txt">Feminino</string>
+    <string name="sexo_o_txt">Outros</string>
+    <string name="ativo_txt">Ativo</string>
+    <string name="inativo_txt">Inativo</string>
+    <string name="adicionar_cliente">Adicionar</string>
+    <string name="sexo_txt">Sexo</string>
+    <string name="cabecalho">Listar Clientes</string>
+    <plurals name="texto_quantidade">
+        <item quantity="one">Cliente: 1</item>
+        <item quantity="other">Clientes: %d</item>
+    </plurals>
+    <string name="btn_listar">Listar</string>
+    <string name="btn_adicionar">Adicionar</string>
+    <string name="btn_pesquisar">Pesquisar</string>
+    <string name="btn_sair">Sair</string>
+    <string name="splash_txt">Isso é um splash! :)</string>
+</resources>
